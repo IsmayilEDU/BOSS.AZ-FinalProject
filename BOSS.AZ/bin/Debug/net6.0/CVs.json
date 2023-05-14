@@ -1,0 +1,58 @@
+[
+  {
+    "ID": "44b8be37-c345-4b33-be8c-edfd868bf8be",
+    "jobSeeker": {
+      "Age": 25,
+      "City": "Baku",
+      "Phone": "0505555555",
+      "Mail": null,
+      "ID": "3b4bce70-4f13-44f5-9fdd-c268e243938c",
+      "Name": "Ismayil",
+      "Surname": "Kerimzade",
+      "Fullname": "Ismayil Kerimzade"
+    },
+    "Profession": "Programlashdirma",
+    "UniversityDiplom": true,
+    "Languages": {
+      "Azerbaycan": "Ela",
+      "Inglis": "Orta",
+      "Rus": "Orta"
+    },
+    "WorkExperiences": [
+      {
+        "Company": "Veyselgolu",
+        "Position": "Kuryer",
+        "StartDate": "2022-01-01T00:00:00",
+        "FinishDate": "2023-05-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "ID": "680fe1c4-3bcf-4e5f-827e-0e2baf9a1c0e",
+    "jobSeeker": {
+      "Age": 22,
+      "City": "Baku",
+      "Phone": "0506666666",
+      "Mail": null,
+      "ID": "56e863b4-b0a0-467c-a3b2-c181fdf8dca2",
+      "Name": "Huseyn",
+      "Surname": "Kerimov",
+      "Fullname": "Huseyn Kerimov"
+    },
+    "Profession": "Yangin Sonduren",
+    "UniversityDiplom": true,
+    "Languages": {
+      "Azerbaycan": "Ela",
+      "Inglis": "Zeif",
+      "Rus": "Orta"
+    },
+    "WorkExperiences": [
+      {
+        "Company": "FHN",
+        "Position": "Yangin Sonduren",
+        "StartDate": "2021-06-12T00:00:00",
+        "FinishDate": "2023-03-14T00:00:00"
+      }
+    ]
+  }
+]
